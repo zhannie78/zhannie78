@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhannie78
+- 👋 Hi, I’m Annie (@zhannie78)
 - 👀 I’m interested in Data Science, AI, Machine Learning, Digital Marketing, Fintech, and Blockchain.
 - 🌱 I’m currently improving my skills in Python, SQL, C++ and MATLAB. I am proficient in R and HTML.
 - 💞️ I’m looking to collaborate on any interesting projects!
