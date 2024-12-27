@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Annie
-- 👀 I’m interested in Data Analytics, AI, Machine Learning, Blockchain, Fintech, and Digital Marketing.
-- 🌱 I’m currently improving my skills in Solidity. I am proficient in Python, R, SQL, Tableau, and HTML.
+- 👀 I’m interested in Data Analytics, AI, Machine Learning, Blockchain, Fintech.
+- 🌱 I’m currently improving my skills in Solidity. I am proficient in Python, R, SQL, and HTML. Experienced with Power BI, Tableau, and other data visualization tools.
 
 
 
