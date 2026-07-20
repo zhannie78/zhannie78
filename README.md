@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Annie
-- 👀 I’m interested in Data Analytics, AI, Machine Learning, Blockchain, Fintech.
-- 🌱 I’m currently improving my skills in Solidity. I am proficient in Python, R, SQL, and HTML. Experienced with Power BI, Tableau, and other data visualization tools.
+- 👋 Hi, I'm Annie, a Forward Deployed Engineer.
+- 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
+- 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
 
 
