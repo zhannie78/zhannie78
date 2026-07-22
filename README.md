@@ -3,7 +3,7 @@
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
 <p align="center">
-  [aideployed.dev](https://aideployed.dev)
+  https://aideployed.dev
 </p>
 
 
