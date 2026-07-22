@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Annie, a Forward Deployed Engineer.
+- 👋 Hi, I'm Annie, a Forward Deployed Engineer and AI Consultant.
 - 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
