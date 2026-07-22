@@ -2,6 +2,8 @@
 - 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
+aideployed.deve
+
 
 
 <!---
