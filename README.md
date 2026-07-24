@@ -7,9 +7,7 @@
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
 <h1 align="center">
-  <a href="https://aideployed.dev">
-    <kbd>&nbsp;&nbsp;&nbsp;aideployed.dev&nbsp;&nbsp;&nbsp;</kbd>
-  </a>
+  <a href="https://aideployed.dev">🚀 aideployed.dev</a>
 </h1>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
