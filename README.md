@@ -1,5 +1,4 @@
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 [![Repos Badge](https://badges.pufler.dev/repos/zhannie78)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/zhannie78)](https://badges.pufler.dev)
                        
@@ -12,6 +11,7 @@
 </p>
 
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%ff69b4)
 
 <!---
 zhannie78/zhannie78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
