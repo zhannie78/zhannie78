@@ -1,5 +1,5 @@
 
-[![Visits Badge](https://badges.pufler.dev/visits/zhannie78)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/zhannie78/)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/zhannie78)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/zhannie78)](https://badges.pufler.dev)
                        
