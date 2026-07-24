@@ -7,10 +7,8 @@
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
 <p align="center">
-  https://aideployed.dev
+  aideployed.dev
 </p>
-
-[![Website](https://shields.io)](https://aideployed.dev)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
