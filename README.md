@@ -10,7 +10,9 @@
   https://aideployed.dev
 </p>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=1E2A56)
+[![aideployed.dev](https://shields.io)](https://aideployed.dev)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 <!---
