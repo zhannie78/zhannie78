@@ -10,7 +10,7 @@
   https://aideployed.dev
 </p>
 
-[![aideployed.dev](https://shields.io)](https://aideployed.dev)
+[![Website](https://shields.io)](https://aideployed.dev)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
