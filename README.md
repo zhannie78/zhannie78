@@ -6,14 +6,11 @@
 - 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
-<h1 align="center">
-  <a href="https://aideployed.dev">aideployed.dev</a>
-</h1>
-<h1 align="center">
+<p align="center">
   <a href="https://aideployed.dev">
-    <kbd>&nbsp;&nbsp;&nbsp;aideployed.dev&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd><strong>&nbsp;&nbsp;&nbsp;aideployed.dev&nbsp;&nbsp;&nbsp;</strong></kbd>
   </a>
-</h1>
+</p>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
