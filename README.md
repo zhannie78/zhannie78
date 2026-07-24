@@ -1,5 +1,5 @@
 
-[![Visits Badge](https://badges.pufler.dev/visits/zhannie78/)](https://badges.pufler.dev)
+![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 [![Repos Badge](https://badges.pufler.dev/repos/zhannie78)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/zhannie78)](https://badges.pufler.dev)
                        
