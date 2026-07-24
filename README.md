@@ -11,7 +11,7 @@
 </p>
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%ff69b4)
+![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=ff69b4)
 
 <!---
 zhannie78/zhannie78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
