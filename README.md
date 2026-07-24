@@ -8,10 +8,8 @@
 
 <p align="center">
   https://aideployed.dev
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=1E2A56)
 </p>
-
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=1E2A56)
 
 <!---
 zhannie78/zhannie78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
