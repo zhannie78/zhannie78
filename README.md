@@ -7,8 +7,8 @@
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
 <p align="center">
-  <a href="https://aideployed.dev">
-    <kbd><strong>&nbsp;&nbsp;&nbsp;aideployed.dev&nbsp;&nbsp;&nbsp;</strong></kbd>
+  <a href="https://medium.com/@zhannie">
+    <kbd><strong>&nbsp;&nbsp;&nbsp;Medium&nbsp;&nbsp;&nbsp;</strong></kbd>
   </a>
 </p>
 
