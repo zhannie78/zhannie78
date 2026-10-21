@@ -2,7 +2,7 @@
 [![Years Badge](https://badges.pufler.dev/years/zhannie78)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/zhannie78)](https://badges.pufler.dev)
                        
-- 👋 Hi, I'm Annie, a Forward Deployed Engineer and AI Consultant.
+- 👋 Hi, I'm Annie, a Forward Deployed Engineer.
 - 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
 - 💻 Also proficient in Python, R, SQL. Experienced with Power BI, Tableau, and other data visualization tools.
 
