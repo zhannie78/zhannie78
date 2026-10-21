@@ -12,10 +12,10 @@
   </a>
 </p>
 
+![](ascii-logo.jpeg)
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
-
-![](ascii-logo.jpeg)
 
                                                   
 <!---
