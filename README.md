@@ -15,7 +15,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=zhannie78f&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
-![](images/ascii-logo.jpeg)
+![](ascii-logo.jpeg)
 
                                                   
 <!---
