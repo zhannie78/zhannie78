@@ -1,6 +1,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/zhannie78)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/zhannie78)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/zhannie78/badge-it)](https://badges.pufler.dev)
                        
 - 👋 Hi, I'm Annie, a Forward Deployed Engineer and AI Consultant.
 - 🤖 AI-Native Builder using Claude Code, Codex, Cursor.
